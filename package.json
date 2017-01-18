@@ -8,14 +8,17 @@
   },
   "dependencies": {
     "firebase": "^3.6.4",
+    "lodash": "^4.17.4",
     "react": "15.4.1",
     "react-native": "0.39.2",
+    "react-native-communications": "^2.2.1",
     "react-native-router-flux": "^3.35.0",
     "react-redux": "^5.0.1",
     "redux": "^3.6.0"
   },
   "devDependencies": {
     "@types/firebase": "^2.4.30",
+    "@types/lodash": "^4.14.50",
     "@types/node": "^6.0.56",
     "@types/react-native": "^0.37.5",
     "@types/react-redux": "^4.4.35",

@@ -5,7 +5,7 @@ import {
 
 const CardSection: React.StatelessComponent<any> = (props) => {
     return (
-        <View style={[styles.containerStyle]} >
+        <View style={[styles.containerStyle, props.style]} >
             {props.children}
         </View>
     );
